@@ -35,6 +35,7 @@ This project was developed as a study assignment and is one of my earlier full-p
 ---
 
 ## 🗂 Project Structure
+```bash
 Proiect-final-SDB/
 ├── README.md
 ├── LICENSE
@@ -52,7 +53,7 @@ Proiect-final-SDB/
 ├── exceptions.py
 └── database/
 └── ... (DB files)
-
+```
 > Note: If you reorganize into a package (e.g., `src/`), update imports and add `__init__.py` files.
 
 ---
