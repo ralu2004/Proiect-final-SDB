@@ -78,19 +78,25 @@ python -m venv .venv
 .venv\Scripts\activate
 # macOS/Linux
 ```
+---
 
 ## ▶️ Running the Application
 ```bash
 python main.py
 ```
+---
 
 ## 📖 Usage Examples
 - Add product (admin): Admin → Manage Products → Add Product → enter details
 - List products (client or admin): View Products → see list with promotions
 - Create promotion (admin): Admin → Manage Promotions → Add Promotion → define rules
 
+---
+
 ## 🗄 Configuration & Database
 Currently uses file-based storage in database/.
+
+---
 
 ## 🔮 Future Improvements
 - Add persistent storage and migrations
@@ -100,8 +106,12 @@ Currently uses file-based storage in database/.
 - Add logging and enhanced error handling
 - Example data import/export scripts
 
+---
+
 ## 📜 License
 MIT License.
+
+---
 
 ## 📬 Contact
 GitHub profile: https://github.com/ralu2004
